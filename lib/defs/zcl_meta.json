@@ -1578,7 +1578,7 @@
             }               
         },
         "manuSpecificPhilips": {
-            "eventNotification":{
+            "hueNotification":{
                 "params":[
                     {"button":"uint8"},
                     {"unknown1":"uint24"},
